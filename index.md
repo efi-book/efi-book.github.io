@@ -18,7 +18,7 @@ EFI stubについてソースコードレベルでみていく。
 
 * [UEFI読本 Linux編](https://booth.pm/ja/items/1037661)
 
-## UEFI読本　GRUB編
+## UEFI読本 GRUB編
 
 「UEFI読本 GRUB編」では
 Linuxの起動で最も利用されているbootloaderであるGRUB
