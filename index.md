@@ -22,7 +22,7 @@ EFI stubについてソースコードレベルでみていく。
 において「UEFI読本 基礎編 Linux編」として頒布された。
 以下のBOOTHで電子版を頒布している。
 
-* [UEFI読本 Linux編](https://booth.pm/ja/items/1037661)
+* [UEFI読本 Linux編](https://retrage.booth.pm/items/1037661)
 
 ## UEFI読本 GRUB編
 
@@ -31,4 +31,6 @@ Linuxの起動で最も利用されているbootloaderであるGRUB
 のUEFIでの起動とLinuxの起動をソースコードレベルでみていく。
 本書は[技術書典 6](https://techbookfest.org/event/tbf06)
 において頒布予定である。
-また、BOOTHにおいて電子版を頒布予定である。
+また、BOOTHにおいて電子版を頒布している。
+
+* [UEFI読本 GRUB編](https://retrage.booth.pm/items/1307216)
