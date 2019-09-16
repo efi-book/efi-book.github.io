@@ -30,7 +30,25 @@ EFI stubについてソースコードレベルでみていく。
 Linuxの起動で最も利用されているbootloaderであるGRUB
 のUEFIでの起動とLinuxの起動をソースコードレベルでみていく。
 本書は[技術書典 6](https://techbookfest.org/event/tbf06)
-において頒布予定である。
+において初めて頒布された。
 また、BOOTHにおいて電子版を頒布している。
 
 * [UEFI読本 GRUB編](https://retrage.booth.pm/items/1307216)
+
+## UEFI読本 ごった煮編
+
+「UEFI読本 ごった煮編」は
+UEFIに関する独立したいくつかの記事をまとめたものである。
+記事は以下のような内容となっている。
+
+* JavaScriptエンジンのUEFIへの移植
+* 特別なツールチェーンを利用しないUEFI Applicationの作成
+* OSのEFI stub化によるUEFI対応
+* GDBによるUEFI Applicationのデバッグ
+* RustのUEFI向けライブラリの紹介と比較
+
+本書は[技術書典 7](https://techbookfest.org/event/tbf07)
+において初めて頒布された。
+電子版を以下のBOOTHにて頒布している。
+
+* [UEFI読本 ごった煮編](https://retrage.booth.pm/items/1562092)
